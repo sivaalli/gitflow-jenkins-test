@@ -25,7 +25,6 @@
                         <releaseBranchPrefix>release/</releaseBranchPrefix>
                         <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
                         <supportBranchPrefix>support/</supportBranchPrefix>
-                        <versionTagPrefix>ss</versionTagPrefix>
                     </gitFlowConfig>
                 </configuration>
             </plugin>
