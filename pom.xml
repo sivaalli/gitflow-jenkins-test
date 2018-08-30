@@ -6,7 +6,7 @@
 
     <groupId>gitflow-test</groupId>
     <artifactId>com.salesforce.test</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
 
     <build>
         <plugins>
